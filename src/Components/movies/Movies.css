@@ -1,0 +1,8 @@
+.main {display: block;}
+.main .title-bg {display: block; background-color: #414141; box-shadow: 0 7px 7px rgba(0, 0, 0, 0.3);}
+.main .title-bg h1 {display: block; line-height: 56px; margin: 0px; font-size: 25px; color: #fff; font-weight: 400;}
+.main .popular-main {display: flex; flex-wrap: wrap; margin: 0 -7px; padding: 35px 0;}
+.main .popular-main .popular-boxs {display: block; padding: 0 7px; margin-bottom: 35px; width:14.28571428571429%;}
+.main .popular-main .popular-boxs .img {display: block; width: 100%;}
+.main .popular-main .popular-boxs .img img {display: block; width: 100%;}
+.main .popular-main .popular-boxs h3 {display: block; margin: 10px 0; font-size: 14px; color: #323232; line-height: 1; font-weight: 400;}

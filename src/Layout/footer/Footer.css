@@ -1,0 +1,15 @@
+footer {display: block; background-color: #1e1e1e; padding: 40px 0 45px 0; position: absolute; left: 0; right: 0; bottom: 0;}
+footer .menulink {margin: 0 0 20px; padding: 0px; list-style: none; display: flex; flex-wrap: wrap;}
+footer .menulink li {display: block; margin-right: 26px; position: relative;}
+footer .menulink li:before {content: ''; position: absolute; right: -13px; top: 0; bottom: 0; background-color: grey; width: 1px;}
+footer .menulink li:last-child:before {display: none;}
+footer .menulink li a {display: block; font-size: 14px; color: grey; line-height: 1;}
+footer .menulink li a:hover {color: #fff; text-decoration: none;}
+footer p {font-size: 14px; color: grey; margin: 0 0 42px;}
+footer .socialmedia {margin:0; padding: 0px; list-style: none; display: flex; flex-wrap: wrap;}
+footer .socialmedia li {margin:0 20px 0 0;}
+footer .socialmedia li a {display: block;}
+footer .socialmedia li a svg {display: block; fill: #fff; width: 30px; height: 30px; } 
+footer .app-icon {margin:0; padding: 0px; list-style: none; display: flex; flex-wrap: wrap;}
+footer .app-icon li {margin: 0 0 0 20px;}
+footer .app-icon li a {display: block;}
